@@ -1,6 +1,6 @@
 from PIL import Image,ImageFont,ImageDraw
-
-# 导入字体 作者bilibili@卢祎不念伟
+# 作者bilibili@卢祎不念伟
+# 导入字体 
 tc_font = ImageFont.truetype('字魂创粗黑(商用需授权).ttf',160)
 te_font = ImageFont.truetype('字魂创粗黑(商用需授权).ttf',72)
 n_font = ImageFont.truetype('DIN 1451 LT W06 Mittelschrift.otf',500)
